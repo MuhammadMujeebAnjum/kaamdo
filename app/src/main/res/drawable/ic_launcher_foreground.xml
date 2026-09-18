@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Speed streaks (Vibrant Emerald Green #00B159) -->
+    <path
+        android:fillColor="#00B159"
+        android:pathData="M27,42h11c1.65,0 3,-1.35 3,-3s-1.35,-3 -3,-3H27c-1.65,0 -3,1.35 -3,3s1.35,3 3,3z" />
+    <path
+        android:fillColor="#00B159"
+        android:pathData="M23,50h14c1.65,0 3,-1.35 3,-3s-1.35,-3 -3,-3H23c-1.65,0 -3,1.35 -3,3s1.35,3 3,3z" />
+    <path
+        android:fillColor="#00B159"
+        android:pathData="M27,58h10c1.65,0 3,-1.35 3,-3s-1.35,-3 -3,-3H27c-1.65,0 -3,1.35 -3,3s1.35,3 3,3z" />
+
+    <!-- Stylized K Stem & Upper Body (White & Crisp) -->
+    <!-- Head of runner -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,35a5.5,5.5 0 1,0 11,0a5.5,5.5 0 1,0 -11,0" />
+
+    <!-- Main K Body & Running Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,32 L40,74 C39.8,76.5 41.7,78 44,78 L49,78 C51,78 52.5,76.5 52.7,74.5 L55,48 L65,63 L57,75 C56,76.5 57,78 59,78 L65.5,78 C67,78 68.2,77.2 69,76 L78,62.5 L69,49 L62,49 C59,49 57,47 57,44 C57,41.5 58.5,39.5 61,39 C64,38.5 67,39 69.5,41 L76,46 L79.5,42 L72,35.5 C68.5,32.5 63.5,31.5 59,32.5 Z" />
+
+    <!-- Delivery Box in Hands (Vibrant Green) -->
+    <path
+        android:fillColor="#00B159"
+        android:pathData="M76,42 L85,42 C86.1,42 87,42.9 87,44 L87,53 C87,54.1 86.1,55 85,55 L76,55 C74.9,55 74,54.1 74,53 L74,44 C74,42.9 74.9,42 76,42 Z" />
+    <path
+        android:fillColor="#009247"
+        android:pathData="M74,47.5 L87,47.5 L87,49.5 L74,49.5 Z" />
+</vector>

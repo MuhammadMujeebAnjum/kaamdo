@@ -1,0 +1,6 @@
+{
+  "name": "KaamGo",
+  "description": "Local errand and delivery marketplace in Pakistan connecting Customers, Runners, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
